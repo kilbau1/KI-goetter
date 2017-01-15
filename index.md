@@ -22,15 +22,23 @@
 
     <section class="main-content">
       <h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Forschungsprojekt ‘Gender Recognition of Statues’</h3>
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Forschungsprojekt ‘Griechische Goetter im kunsthistorischen Kontext’</h3>
 
-<p> Idee:
-Einordnung von griech. und röm. Statuen in die kunsthistorische Epochen:
+<h4> Idee: </h4>
+<p> Einordnung von griech. und röm. Statuen in die kunsthistorische Epochen:
 Archaik
 Klassik
 Hellenismus
 </p>
-<p>Vorgehensweise: Ist eine Figur männlich oder weiblich? Zeichnung oder Skulptur? Ein Mensch?</p>
+<h4>Aufgaben</h4> 
+<p>1.Einlesen einer Bilddatei
+2.Bildbearbeitung für die bestmögliche Computer Vision
+3.Anlegen von Mustern und Regeln
+4.kunsthistorisch
+5.mythologisch (optional)
+6.Erkennung von Mustern und Regeln 
+7.Identifizierung und Kategorisierung
+</p>
 <h3>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Neues Thema: Gemälde anhand von bestimmten Merkmalen ihren Epochen zuordnen</h3>
 
