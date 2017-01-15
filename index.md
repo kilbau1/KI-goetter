@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Griechische Götter im kunsthistorischen Kontext
 
-<!DOCTYPE html>
+
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
