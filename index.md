@@ -24,7 +24,12 @@
       <h3>
 <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Forschungsprojekt ‘Gender Recognition of Statues’</h3>
 
-<p>Erstes Ziel: Ist auf einer Zeichnung, einem Gemälde oder einer Skulptur ein Mensch dargestellt und welches Geschlecht wird diesem zugeordnet?</p>
+<p> Idee:
+Einordnung von griech. und röm. Statuen in die kunsthistorische Epochen:
+Archaik
+Klassik
+Hellenismus
+</p>
 <p>Vorgehensweise: Ist eine Figur männlich oder weiblich? Zeichnung oder Skulptur? Ein Mensch?</p>
 <h3>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Neues Thema: Gemälde anhand von bestimmten Merkmalen ihren Epochen zuordnen</h3>
