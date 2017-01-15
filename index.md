@@ -48,31 +48,34 @@ Hellenismus
 <p>Greifen auf die Datenbank zu und setzen Filter zur Vorverarbeitung ein.
 </p>
 <p>Team CV:</p>
-<p>Definieren die Erkennungsmerkmale, Machine Learning und Output
+<p>Definieren die Erkennungsmerkmale, Machine Learning und Output </p>
+<p>Differenzierung von Mustern und Regeln</p>
+<p>Experte:</p>
+<p> Kilian kontrolliert die Umsetzung und sorgt dafür, die Statuen im richtigen Kontext gesetzt werden </p>
 <h3>
-<a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Unterscheidung anhand von Merkmalen</h3>
+<a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Kategoriseriung der wichtigsten Filter:</h3>
 
-<p>1.) Merkmal "Farben"</p>
-<p>-Epochen unterscheiden sich in ihrer Farborientierung (z.B grelle oder dunkle Farben)</p>
-<p>-Durchschnitt der Farbwerte berechnen</p>
-<p>-durch Farbanalyse Grenzwerte ermitteln</p>
-<p>2.) Merkmal "Konturen"</p>
+<p>1. Gesichtsdetektor</p>
+<p>-2. Shapedetektor</p>
+<p>-3. Oberflächendetektor</p>
+<p>-4. Hintergrundsubtraktion</p>
+<p>5. Farbdekektor</p>
 
 
 <h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Ziele</h3>
+<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Aktueller Zustand:</h3>
 
-<p>Farbanalyse</p>
-<p>Ecken zählen</p>
-<p>Histogramme aufstellen</p>
-<p>Konturenvergleiche aufstellen</p>
-<p>weitere OpenCV Funktionen anwenden
+<p>Datenbank ist nahezu vollständig</p>
+<p>"einfache" Filter laufen</p>
+<p>aufwenidigere befinden sich in der Testphase</p>
+<p>einlesen von Stauen optimieren</p>
+<p>OpenCV Anwendungen hinzufügen
 </p>
-<p>Mehrere Künstler einer Epochen untersuchen</p>
-<p>Gemeinsamkeiten der Künstler  ermitteln, um daraus auf Merkmale der Epoche zu ermitteln</p>
-<p>Künstleruntersuchung bei anderer Epoche wiederholen</p>
-<p>Unterschiede der Epochen auf diese Weise ermitteln</p>
-
+<h3>
+<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Programmfähigkeiten</h3>
+<p>Erkennung von Statuen</p>
+<p>Einordnung in den kunsthistorischen Kontext</p>
+<p>Differenzierung von dargestellten Gottheiten</p>
 
 <h3>
 <a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
