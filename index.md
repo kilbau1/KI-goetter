@@ -4,7 +4,7 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Opencv by VeraCologne</title>
+    <title>Opencv by ashrafsp</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -15,9 +15,9 @@
     <section class="page-header">
       <h1 class="project-name">Künstliche Intelligenz und   Cultural Heritage</h1>
       <h2 class="project-tagline"></h2>
-      <a href="https://github.com/VeraCologne/opencv" class="btn">View on GitHub</a>
-      <a href="https://github.com/VeraCologne/opencv/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/VeraCologne/opencv/tarball/master" class="btn">Download .tar.gz</a>
+      <a href="https://github.com/ashrafsp/opencv" class="btn">View on GitHub</a>
+      <a href="https://github.com/ashrafsp/opencv/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/ashrafsp/opencv/tarball/master" class="btn">Download .tar.gz</a>
     </section>
 
     <section class="main-content">
