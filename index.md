@@ -40,15 +40,15 @@ Hellenismus
 7.Identifizierung und Kategorisierung
 </p>
 <h3>
-<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Neues Thema: Gemälde anhand von bestimmten Merkmalen ihren Epochen zuordnen</h3>
+<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Projektorganisation</h3>
 
-<p>Zunächst:
-Unterscheidung von Expressionismus und Realismus,             
-da beide Epochen sehr unterschiedlich sind.</p>
-<p>Später:
-Erweiterung auf weitere Epochen.
+<p>Team Datenbank:</p>
+<p>Sammeln und pflegen der Datenbank.</p>
+<p>Team Bildvorverarbeitung:</p>
+<p>Greifen auf die Datenbank zu und setzen Filter zur Vorverarbeitung ein.
 </p>
-
+<p>Team CV:</p>
+<p>Definieren die Erkennungsmerkmale, Machine Learning und Output
 <h3>
 <a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Unterscheidung anhand von Merkmalen</h3>
 
