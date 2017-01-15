@@ -55,11 +55,11 @@ Hellenismus
 <h3>
 <a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Kategoriseriung der wichtigsten Filter:</h3>
 
-<p>-1. Gesichtsdetektor</p>
-<p>-2. Shapedetektor</p>
-<p>-3. Oberflächendetektor</p>
-<p>-4. Hintergrundsubtraktion</p>
-<p>-5. Farbdekektor</p>
+<p>1. Gesichtsdetektor</p>
+<p>2. Shapedetektor</p>
+<p>3. Oberflächendetektor</p>
+<p>4. Hintergrundsubtraktion</p>
+<p>5. Farbdekektor</p>
 
 
 <h3>
