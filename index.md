@@ -31,14 +31,14 @@ Klassik
 Hellenismus
 </p>
 <h4>Aufgaben</h4> 
-<p>1.Einlesen einer Bilddatei
-2.Bildbearbeitung für die bestmögliche Computer Vision
-3.Anlegen von Mustern und Regeln
-4.kunsthistorisch
-5.mythologisch (optional)
-6.Erkennung von Mustern und Regeln 
-7.Identifizierung und Kategorisierung
-</p>
+<p>1.Einlesen einer Bilddatei</p>
+<p>2.Bildbearbeitung für die bestmögliche Computer Vision </p>
+<p>3.Anlegen von Mustern und Regeln </p>
+<p>4.kunsthistorisch </p>
+<p>5.mythologisch (optional) </p>
+<p>6.Erkennung von Mustern und Regeln </p> 
+<p>7.Identifizierung und Kategorisierung </p>
+
 <h3>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Projektorganisation</h3>
 
