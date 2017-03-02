@@ -81,14 +81,30 @@ Hellenismus
 
 
 <h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Ergebnis:</h3>
+<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vorgehensweise:</h3>
 <p>Umsetzung mit innerhalb von Supervised Learning</p>
 <p>Erstellung von Mustern anhand der errechneten Features über Haar Cascades</p>
 <p>Die Muster gelten als Richtlinie für die nachfolgenden Bilder </p>
 <p>Trainieren des Computers manuel mithilfe von Classifiern</p>
 <p>Cascade-xml anschließend in den Code eingebettet </p>
+<p>Einteilung der Bilder in positiv und negativ</p>
+<p>
 
 <h3>
+
+<h3>
+<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Ergebnis:</h3>
+<p>1.Erkennung von Skulpturen</p>
+<p>Statuen unterteilt in Oberkoerper (UpperBodyDetector.java), Unterkörper (LowerBodyDetector.java) und Gesicht (FaceDetector.java)</p>
+<p>Unterscheidung zwischen Farbton (ColorDetector.java)</p>
+<p>2. Einordnung in Epochen </p>
+<p>Datenbank mit 1500 Bilder <p>
+<p>Image Pre-Processing<p>
+<p>Einordnung der Bilder in die Epochen</p>
+<p>Bilder auf die gleiche Größe skalliert</p>
+<p>Vereinheitlichung in ein Format </p>
+<p>Umwandlung in Graustufen für weniger Farbkanäle</p>
+</h3>
 
 
 <a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
