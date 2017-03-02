@@ -78,6 +78,19 @@ Hellenismus
 <p>Differenzierung von dargestellten Gottheiten</p>
 
 <h3>
+
+
+<h3>
+<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Ergebnis:</h3>
+<p>Umsetzung mit innerhalb von Supervised Learning</p>
+<p>Erstellung von Mustern anhand der errechneten Features über Haar Cascades</p>
+<p>Die Muster gelten als Richtlinie für die nachfolgenden Bilder </p>
+<p>Trainieren des Computers manuel mithilfe von Classifiern</p>
+<p>Cascade-xml anschließend in den Code eingebettet </p>
+
+<h3>
+
+
 <a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
 
 <p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
