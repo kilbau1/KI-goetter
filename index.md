@@ -91,8 +91,6 @@ Hellenismus
 <p>
 
 <h3>
-
-<h3>
 <a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Ergebnis:</h3>
 <p>1.Erkennung von Skulpturen</p>
 <p>Statuen unterteilt in Oberkoerper (UpperBodyDetector.java), Unterkörper (LowerBodyDetector.java) und Gesicht (FaceDetector.java)</p>
@@ -107,7 +105,7 @@ Hellenismus
 </h3>
 
 
-<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
+<h3><a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
 
 <p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
 
